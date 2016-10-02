@@ -1,0 +1,1 @@
+<div id="center">	<table>		<td>			<tr>				© 2016 paocomchourico. All rights reserved.			</tr>			<tr>						</tr>		</td>	</table></div>

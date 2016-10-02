@@ -1,0 +1,1 @@
+<div id="pessoal">	<div id="foto" style="background-image:url('imagem/angl.jpg');"></div>	<div id="infocima" >		<b>Nome: </b>Angela Maria Esteves Moura Morais</br>		<b>Escalão: </b>Feminino</br>		<b>Ranking GDSC: </b>1º	</div>	<div id="infobaixo" >		<p><b>provas:</b> 5</p>		<p><b>km em prova:</b> 50km</p>    		<b>ritmo/média:</b> 4.38 min/km	</div></div>

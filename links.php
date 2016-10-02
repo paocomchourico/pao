@@ -1,0 +1,1 @@
+<a href="index.php?opcao_menu=ptreinos" id="menu">planos de treino</a><a href="index.php?opcao_menu=proxeventos" id="menu">próximas provas</a><a href="index.php?opcao_menu=fotos" id="menu">galeria de fotos</a><a href="index.php?opcao_menu=calc" id="menu">calculadora de ritmo</a><?php include ("areapessoallinks.php"); ?>
