@@ -18,5 +18,6 @@
   //   mysql_query("COMMIT");
     //echo "Database transaction was successful";
 //}
+    //alterei cenas a montes 
 
-?>
+?> 
