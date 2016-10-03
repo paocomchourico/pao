@@ -199,11 +199,11 @@ and open the template in the editor.
         <div class="container-fluid bg-grey">
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-globe logo slideanim"></span>
+        <img title="BRUNOOO" src="../image/face.png" alt="face">    
     </div>
     <div class="col-sm-8">
       <h2>EI CA BURRO!!!</h2><br>
-      <h4><strong>OLHA SÓ A MERDA QUE FIZESTE:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
+      <h4><strong>OLHA SÓ A MERDA QUE FIZESTE:</strong> <?php echo $_SESSION['ERRO_DB'];?></h4><br>
     </div>
   </div>
 </div>
