@@ -13,5 +13,15 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <table>
+		<td>
+			<tr>
+				Ocorreu um granda erro pá!!
+			</tr>
+			<tr>
+			
+			</tr>
+		</td>
+	</table>
     </body>
 </html>
