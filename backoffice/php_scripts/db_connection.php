@@ -12,8 +12,8 @@ try{
 }
 //catch exception
 catch(Exception $e) {
-  header("Location: ErrorPage.php");
-    
+      header("Location:../../ErrorManager/ErrorPage.php?");
+  
 }
 ?>
         
