@@ -202,8 +202,8 @@ and open the template in the editor.
         <img title="BRUNOOO" src="../image/face.png" alt="face">    
     </div>
     <div class="col-sm-8">
-      <h2>EII CA BURRO!!!!</h2><br>
-      <h4><strong>OLHA SÓ A MERDA QUE FIZESTE:</strong> <?php echo $_SESSION['ERRO_DB'];?></h4><br>
+      <h2>EI CA BURRO!!!!</h2><br>
+      <h4><strong>OLHA SÓ A MERDA QUE FIZESTE:</strong> <?php echo $_SESSION['ERRO_DB_'];?></h4><br>
     </div>
   </div>
 </div>
