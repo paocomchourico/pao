@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+echo session_id();
+
 if(isset($_SESSION['screen_width']) AND isset($_SESSION['screen_height'])){
 	$swidth = $_SESSION['screen_width'];
 	$sheight = $_SESSION['screen_height'];
